@@ -1,0 +1,8 @@
+﻿  Lab5_C++.cpp
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(28,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(28,20): message : consider using '%lld' in the format string
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(28,20): message : consider using '%I64d' in the format string
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(34,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(34,20): message : consider using '%lld' in the format string
+C:\Users\maxim\source\repos\Lab5_C++\Lab5_C++\Lab5_C++.cpp(34,20): message : consider using '%I64d' in the format string
+  Lab5_C++.vcxproj -> C:\Users\maxim\source\repos\Lab5_C++\Debug\Lab5_C++.exe
